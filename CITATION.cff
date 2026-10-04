@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "QR-Stabilized Direct Genocchi Spectral Collocation Method"
+message: "If you use this software, please cite the associated research article."
+type: software
+authors:
+
+* family-names: "Lotfi"
+  given-names: "Mahmoud"
+  affiliation: "Farhangian University, Tehran, Iran"
+  repository-code: "https://github.com/herman646595/QR-Stabilized-Direct-Genocchi-Spectral-Collocation-Method"
+  license: "MIT"
+  keywords:
+* "Genocchi polynomials"
+* "spectral collocation"
+* "Riesz fractional derivative"
+* "space-fractional reaction-diffusion equations"
+* "QR stabilization"
+* "fractional differential equations"
+  abstract: "Python implementation of a QR-stabilized direct Genocchi spectral collocation method for nonlinear Riesz space-fractional reaction-diffusion equations."
