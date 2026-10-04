@@ -1,4 +1,3 @@
-print("watch your pc:(")
 import numpy as np
 import matplotlib.pyplot as plt
 from math import comb
